@@ -38,7 +38,7 @@ const harish = {
 | 💡 Exploring | Web3 and Blockchain technologies |
 | 🎓 Studying | BE Computer Science @ ATME College (CGPA: 8.2) |
 | 📫 Reach me | gowdaharish580@gmail.com |
-| 💼 Connect | [LinkedIn](https://www.linkedin.com/in/your-link) |
+| 💼 Connect | [LinkedIn](https://www.linkedin.com/in/harish-sathish-82ba21266/) |
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
