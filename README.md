@@ -1,18 +1,18 @@
 <h1 align="center">👋 Hey there! I'm Harish S</h1>
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Entrepreneur+in+Residence;MERN+Stack+Enthusiast;AI%2FML+Explorer;Open+Source+Contributor" alt="Typing SVG" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="Developer GIF"/>
-</div>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-```javascript
+```js
 const harish = {
   location: "Mysuru, Karnataka, India 🇮🇳",
   education: "BE - Computer Science & Engineering @ ATME College",
@@ -27,82 +27,117 @@ const harish = {
   currentlyBuilding: "AI-powered MCP marketplace tools 🤖",
   funFact: "I love contributing to citizen science projects! 🔭"
 };
-🎯 What I'm Up To
-<div align="right"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="280" /> </div>
-🏢 Currently: Entrepreneur in Residence at Evobi Automations
+```
+## 🎯 What I'm Up To
 
-🔭 Building: 7cents - AI MCP Tools Marketplace
+| Activity | Description |
+|----------|-------------|
+| 🏢 Currently | Entrepreneur in Residence @ Evobi Automations |
+| 🔭 Building | 7cents – AI MCP Tools Marketplace |
+| 🌟 Learning | Advanced AI/ML and Cloud Architecture |
+| 💡 Exploring | Web3 and Blockchain technologies |
+| 🎓 Studying | BE Computer Science @ ATME College (CGPA: 8.2) |
+| 📫 Reach me | gowdaharish580@gmail.com |
+| 💼 Connect | [LinkedIn](https://www.linkedin.com/in/your-link) |
 
-🌟 Learning: Advanced AI/ML and Cloud Architecture
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+</p>
 
-💡 Exploring: Web3 and Blockchain Technologies
+---
 
-🎓 Studying: Computer Science @ ATME College (CGPA: 8.2)
+## 🛠️ Tech Stack & Tools
 
-📫 Reach me: gowdaharish580@gmail.com
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp" />
+</p>
 
-💼 Connect: LinkedIn
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind" />
+</p>
 
-<br clear="right"/>
-🛠️ Tech Stack & Tools
-<div align="center">
-💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,py,cpp" />
-🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind" />
-🛠 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
-🗄 Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-⚙️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,docker,vercel,postman" /> </div>
-🔥 Featured Projects
-<div align="center">
-🛒 7cents - AI MCP Tools Marketplace
-A marketplace for MCP tools where users subscribe to powerful tools that enable AI to perform real tasks and boost productivity.
-Tech Stack: Next.js • PostgreSQL • Express.js
+### 🔙 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+</p>
 
-🎤 Port11 - AI Interview Platform
-AI-powered interview platform developed at Evobi Automations. Worked as EIR to shape MVP and business strategy.
-Role: Product Strategy • MVP Development • Business Growth
+### 🗄 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
 
-🔭 Astronomy Log - Citizen Science Project
-Platform for logging astronomical observations and collecting data for research purposes.
-Tech Stack: Next.js • PostgreSQL • Express.js • GraphQL
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,vercel,postman" />
+</p>
 
-</div>
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harish4dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish4dev&layout=compact&langs_count=8&theme=tokyonight"/> </div>
-🔥 GitHub Streak
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=harish4dev&theme=tokyonight&hide_border=false" alt="GitHub Streak"/> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=harish4dev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/> </div>
-🐍 Contribution Graph
-<div align="center"> <img src="https://github.com/harish4dev/harish4dev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
-💼 Professional Journey
-mermaid
-Copy
-Edit
+---
+
+## 🔥 Featured Projects
+
+### 🛒 7cents - AI MCP Tools Marketplace  
+A marketplace for MCP tools where users subscribe to powerful tools that enable AI to perform real tasks and boost productivity.  
+**Tech Stack:** Next.js • PostgreSQL • Express.js
+
+---
+
+### 🎤 Port11 - AI Interview Platform  
+AI-powered interview platform developed at Evobi Automations.  
+**Role:** Product Strategy • MVP Development • Business Growth
+
+---
+
+### 🔭 Astronomy Log - Citizen Science Project  
+Platform for logging astronomical observations and collecting data for research purposes.  
+**Tech Stack:** Next.js • PostgreSQL • Express.js • GraphQL
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harish4dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish4dev&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harish4dev&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harish4dev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/harish4dev/harish4dev/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 💼 Professional Journey
+
+```mermaid
 timeline
-    title My Professional Timeline
-    section 2022
-        Aug-Sep : React Development Intern @ Xcite Edu
-    section 2024
-        Oct-Dec : Float Intern @ Caspian
-    section 2025
-        Jan-Mar : Full Stack Intern @ Cohorts
-        Feb-Jun : Entrepreneur in Residence @ Evobi Automations
-🎨 Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=harish4dev&theme=tokyo-night&bg_color=1A1B27&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/> </div>
-🎵 Currently Vibing To
-<div align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k55mr2asmm2uxdpfxgpoqlvbwu&count=3&unique=true" alt="Spotify" /> </div>
-🤝 Connect With Me
-<div align="center"> <a href="mailto:gowdaharish580@gmail.com"><img src="https://img.shields.io/badge/Email-gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/harish4dev"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/></a> </div> <div align="right"> <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400" /> </div>
-🙌 A Few Things I Love
-🎯 Passionate about citizen science and astronomy
-
-🚀 Love building AI-powered applications
-
-🎮 Enjoy crafting interactive web experiences
-
-📚 Always learning something new
+  title My Professional Timeline
+  section 2022
+    Aug-Sep : React Development Intern @ Xcite Edu
+  section 2024
+    Oct-Dec : Float Intern @ Caspian
+  section 2025
+    Jan-Mar : Full Stack Intern @ Cohorts
+    Feb-Jun : Entrepreneur in Residence @ Evobi Automations
+```
